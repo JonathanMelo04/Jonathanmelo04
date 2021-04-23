@@ -1,2 +1,4 @@
 Olá, tudo bem?
-Sou aquela pessoa com o brilho no olho, curioso pelo aprender e solucionar problemas, buscando sua primeira oportunidade de estágio para poder contribuir com as habilidades adquiridas até aqui Atualmente Estudo Análise e Desenvolvimento de Sistemas pela UNISINOS. Além disso, constantemente busco conhecimentos para a universidade, de forma autodidata, em plataformas de cursos online ou YouTube, com foco nas linguagens Java e Kotlin. Também destaco outros pontos fortes, sendo que alguns deles adquirindo trabalhando em outras áreas: trabalho em equipe, dedicação, proatividade, entre outros.
+Sou aquela pessoa com brilho no olho, curioso pelo aprender e solucionar problemas.
+Atualmente estudo Análise e Desenvolvimento de Sistemas pela UNISINOS. Além disso, busco conhecimentos fora da universidade, de forma autodidata, em plataformas de cursos online, com foco em desenvolvimento mobile, sistema Android e na linguagem Kotlin.
+Também destaco outros pontos fortes (soft skills), sendo que alguns deles adquiri trabalhando em outras áreas: trabalho em equipe, dedicação, proatividade, entre outros. 
