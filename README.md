@@ -1,7 +1,7 @@
 ## Olá, tudo certo? ##
 #### Meu  nome é  Jonathan , ###
 Sou aquela pessoa com brilho no olho, curioso pelo aprender e solucionar problemas.
-Atualmente estudo Análise e Desenvolvimento de Sistemas pela UNISINOS. Além disso, busco conhecimentos fora da universidade, de forma autodidata, em plataformas de cursos online, com foco em desenvolvimento mobile, sistema Android e na linguagem KotlinTambém possuo alguns conhecimentos em Java e Flutter. Destaco outros
+Atualmente estudo Análise e Desenvolvimento de Sistemas pela UNISINOS. Além disso, busco conhecimentos fora da universidade, de forma autodidata, em plataformas de cursos online, com foco em desenvolvimento mobile, sistema Android e na linguagem Kotlin. Também possuo alguns conhecimentos em Java e Flutter. Destaco outros
 pontos fortes *(soft skills)* , sendo que alguns deles adquiri trabalhando em outras áreas: Bom
 relacionamento interpessoal e trabalho em equipe, comunicação, proatividade, flexibilidade,
 entre outros.
