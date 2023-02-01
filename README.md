@@ -1,8 +1,10 @@
 ## Olá, tudo certo? ##
 #### Meu  nome é  Jonathan , ###
 Sou aquela pessoa com brilho no olho, curioso pelo aprender e solucionar problemas.
-Atualmente estudo Análise e Desenvolvimento de Sistemas pela UNISINOS. Além disso, busco conhecimentos fora da universidade, de forma autodidata, em plataformas de cursos online, com foco em desenvolvimento mobile, sistema Android e na linguagem Kotlin (com algum conhecimento de Java e um pouco do framework Flutter). Também destaco que atualmente tenho experiência dentro de empresa, a qual trabalho como desenvolvedor android desde o início de 2021.
-Cito outros pontos fortes  *(soft skills)* , sendo que alguns deles adquiri trabalhando em outras áreas: trabalho em equipe, dedicação, proatividade, entre outros.
+Atualmente estudo Análise e Desenvolvimento de Sistemas pela UNISINOS. Além disso, busco conhecimentos fora da universidade, de forma autodidata, em plataformas de cursos online, com foco em desenvolvimento mobile, sistema Android e na linguagem KotlinTambém possuo alguns conhecimentos em Java e Flutter. Destaco outros
+pontos fortes *(soft skills)* , sendo que alguns deles adquiri trabalhando em outras áreas: Bom
+relacionamento interpessoal e trabalho em equipe, comunicação, proatividade, flexibilidade,
+entre outros.
 
 ## Skills: ##
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="rails" width="40" height="40" style="max-widht:100%;"></img>
